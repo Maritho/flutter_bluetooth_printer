@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bluetooth_agp/print_page.dart';
+import 'package:flutter_bluetooth_printer/print_page.dart';
 import 'package:intl/intl.dart';
 
 class HomePage extends StatelessWidget {
